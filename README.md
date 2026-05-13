@@ -121,14 +121,6 @@ Modify parameters directly in the script:
 ├── main.py
 └── README.md
 
-##  Reference
-
-This code was developed as part of the Bachelor's Thesis:
-
-> *Quantum Cosmology: Wheeler–DeWitt Equation and Boundary Conditions*
-
-The full theoretical framework and derivations can be found in the accompanying written document.
-
 
 ## Notes
 
