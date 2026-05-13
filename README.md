@@ -139,7 +139,7 @@ The full theoretical framework and derivations can be found in the accompanying 
 
 ## Author
 
-[Paula Andrea Monrabal Cutanda]
-Bachelor's Degree in Physics
-[Universidad Europea de Valencia]
+Paula Andrea Monrabal Cutanda,
+Bachelor's Degree in Physics,
+Universidad Europea de Valencia,
 2026
