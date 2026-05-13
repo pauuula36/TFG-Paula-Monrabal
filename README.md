@@ -46,7 +46,6 @@ The Wheeler–DeWitt equation is evaluated in semiclassical approximation.
 * Exponential suppression in the quantum region
 * Breaks time-reversal symmetry
 
----
 
 ## Numerical Methodology
 
@@ -60,7 +59,6 @@ The Wheeler–DeWitt equation is evaluated in semiclassical approximation.
 
 The wave function is constructed piecewise using semiclassical expressions.
 
----
 
 ## Output and Visualization
 
@@ -76,7 +74,6 @@ The program generates:
   * Maximum amplitude
   * Value at the classical/quantum transition
 
----
 
 ## Parameter Regimes
 
@@ -88,7 +85,7 @@ Two regimes are explored:
 * **Non slow-roll regime** ($V_0 < m$):
   Strong oscillatory dependence on $\phi$
 
----
+
 
 ## Requirements
 
@@ -102,7 +99,6 @@ Install dependencies with:
 pip install numpy matplotlib
 ```
 
----
 
 ## Usage
 
